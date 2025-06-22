@@ -11,10 +11,14 @@
             "id": "d288650ce439d695",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "글귀-모음.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "글귀-모음"
             }
           }
         ]
@@ -174,10 +178,10 @@
   },
   "active": "d288650ce439d695",
   "lastOpenFiles": [
-    "글귀-모음.md",
     "개발자-원칙.md",
-    "README.md",
+    "글귀-모음.md",
     "cover-image.png",
+    "README.md",
     "인상-깊었던-글귀-모음.md",
     "개발자 원칙.md"
   ]
