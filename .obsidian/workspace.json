@@ -11,10 +11,14 @@
             "id": "5d8bf3aecb9d8dda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "글귀-모음.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "글귀-모음"
             }
           }
         ]
